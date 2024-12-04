@@ -1,0 +1,5 @@
+wallet_address,email,twitter_link,username
+0x1111111111111111111111111111111111111111,test1@gmail.com,https://x.com/tt1,Testing01
+0x2222222222222222222222222222222222222222,test2@gmail.com,http://x.com/tt2,Testing02
+0x3333333333333333333333333333333333333333,test3@gmail.com,https://twitter.com/tt3,Testing03
+0x4444444444444444444444444444444444444444,test4@gmail.com,http://twitter.com/tt4,Testing04

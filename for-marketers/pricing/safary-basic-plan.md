@@ -1,0 +1,2 @@
+# Safary basic plan
+
